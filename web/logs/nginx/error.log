@@ -2,3 +2,4 @@
 2020/08/08 17:50:20 [emerg] 1#1: "daemon" directive is duplicate in /etc/nginx/nginx.conf:4
 2020/08/08 18:03:03 [emerg] 1#1: "daemon" directive is duplicate in /etc/nginx/nginx.conf:4
 2020/08/08 18:12:06 [emerg] 1#1: "daemon" directive is duplicate in /etc/nginx/nginx.conf:4
+2020/08/09 10:16:33 [emerg] 1#1: "daemon" directive is duplicate in /etc/nginx/nginx.conf:4
